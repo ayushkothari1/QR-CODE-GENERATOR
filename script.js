@@ -13,6 +13,6 @@ function generateQR() {
     // alert("It's empty bro")
     setTimeout(() => {
       qrText.classList.remove("error");
-    }, 1000);
+    }, 1500);
   }
 }
